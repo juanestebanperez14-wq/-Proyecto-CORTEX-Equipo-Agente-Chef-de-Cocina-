@@ -3,4 +3,3 @@
 **-Juan Esteban Perez Santa-Carolina Jaimes Cantillo-Miguel Santiago Grandett Arango** 
 ## 1. Perfil del agente: Linguinni
 <img width="967" height="479" alt="image" src="https://github.com/user-attachments/assets/dceeb7ff-1d69-4359-a176-853bee5467db" />
-<img width="967" height="479" alt="image" src="https://github.com/user-attachments/assets/dceeb7ff-1d69-4359-a176-853bee5467db" />
