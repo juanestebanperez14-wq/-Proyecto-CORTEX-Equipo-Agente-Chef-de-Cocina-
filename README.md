@@ -4,6 +4,7 @@
 ## 1. Perfil del agente: Linguinni
 <img width="946" height="476" alt="image" src="https://github.com/user-attachments/assets/4dce56ec-af1a-47e4-9c6e-7b29cf11d18f" />
 <img width="899" height="332" alt="image" src="https://github.com/user-attachments/assets/28609933-5e38-4359-80f5-7a1400f7d38d" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5b6e4ed2-a34d-4b52-b4c9-75c80204afbb" />
 
 ## -Atención – 10/10 
 -Un asistente digital especializado en cocina italiana debe mostrar máxima precisión y enfoque en los detalles, porque:
