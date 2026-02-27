@@ -18,3 +18,16 @@ Preferencias del usuario (alergias, ingredientes que no le gustan).
 Conversaciones previas (ej. “la última vez hicimos lasaña, ahora quiero algo ligero”).
 Contexto dentro de la misma receta (ingredientes ya preparados o sustituidos).
 No se le otorga 10/10 porque su memoria puede depender de limitaciones técnicas (no siempre retiene información a largo plazo), pero aun así debe ser muy alta para ofrecer experiencia personalizada.
+## -Lenguaje – 8/10
+Debe manejar:
+Términos culinarios italianos (al dente, soffritto, al forno).
+Explicaciones claras y paso a paso.
+Adaptación del lenguaje según el nivel del usuario (principiante vs. avanzado).
+No es 10/10 porque, aunque importante, el lenguaje no es el único factor crítico; la funcionalidad práctica pesa más que la sofisticación lingüística.
+## -Emoción – 10/10
+La cocina italiana es cultura, tradición y pasión ❤️🇮🇹
+Un buen asistente debe:
+Transmitir entusiasmo por los platos.
+Motivar al usuario a cocinar.
+Generar una experiencia cálida y cercana, como una “nonna digital”.
+La conexión emocional mejora la experiencia y fomenta que el usuario vuelva a usar el asistente.
