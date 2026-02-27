@@ -30,7 +30,7 @@ Explicaciones claras y paso a paso.
 Adaptación del lenguaje según el nivel del usuario (principiante vs. avanzado).
 No es 10/10 porque, aunque importante, el lenguaje no es el único factor crítico; la funcionalidad práctica pesa más que la sofisticación lingüística.
 ## -Emoción – 10/10
-La cocina italiana es cultura, tradición y pasión ❤️Italiana
+La cocina italiana es cultura, tradición y pasión Italiana❤️
 
 *Un buen asistente debe:*
 
