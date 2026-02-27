@@ -13,7 +13,8 @@ Debe interpretar correctamente solicitudes como “sin gluten”, “vegetariano
 Tiene que seguir pasos en orden sin omitir procesos clave (tiempos de reposo, temperaturas, emulsiones).
 En cocina, un pequeño error cambia el resultado final. Por eso, la atención debe ser excelente.
 ## -Memoria – 9/10
-El asistente necesita recordar:
+*-El asistente necesita recordar:*
+
 Preferencias del usuario (alergias, ingredientes que no le gustan).
 Conversaciones previas (ej. “la última vez hicimos lasaña, ahora quiero algo ligero”).
 Contexto dentro de la misma receta (ingredientes ya preparados o sustituidos).
@@ -25,7 +26,7 @@ Explicaciones claras y paso a paso.
 Adaptación del lenguaje según el nivel del usuario (principiante vs. avanzado).
 No es 10/10 porque, aunque importante, el lenguaje no es el único factor crítico; la funcionalidad práctica pesa más que la sofisticación lingüística.
 ## -Emoción – 10/10
-La cocina italiana es cultura, tradición y pasión ❤️🇮🇹
+La cocina italiana es cultura, tradición y pasión ❤️Italiana
 Un buen asistente debe:
 Transmitir entusiasmo por los platos.
 Motivar al usuario a cocinar.
