@@ -12,3 +12,9 @@ Las recetas italianas dependen mucho de proporciones exactas (ej. pasta fresca, 
 Debe interpretar correctamente solicitudes como “sin gluten”, “vegetariano” o “para 6 personas”.
 Tiene que seguir pasos en orden sin omitir procesos clave (tiempos de reposo, temperaturas, emulsiones).
 En cocina, un pequeño error cambia el resultado final. Por eso, la atención debe ser excelente.
+## -Memoria – 9/10
+El asistente necesita recordar:
+Preferencias del usuario (alergias, ingredientes que no le gustan).
+Conversaciones previas (ej. “la última vez hicimos lasaña, ahora quiero algo ligero”).
+Contexto dentro de la misma receta (ingredientes ya preparados o sustituidos).
+No se le otorga 10/10 porque su memoria puede depender de limitaciones técnicas (no siempre retiene información a largo plazo), pero aun así debe ser muy alta para ofrecer experiencia personalizada.
