@@ -7,7 +7,7 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5b6e4ed2-a34d-4b52-b4c9-75c80204afbb" />
 
 ## -Atención – 10/10 
--Un asistente digital especializado en cocina italiana debe mostrar máxima precisión y enfoque en los detalles, porque:
+*-Un asistente digital especializado en cocina italiana debe mostrar máxima precisión y enfoque en los detalles, porque:*
 
 Las recetas italianas dependen mucho de proporciones exactas (ej. pasta fresca, risotto, pizza).
 Debe interpretar correctamente solicitudes como “sin gluten”, “vegetariano” o “para 6 personas”.
@@ -21,7 +21,7 @@ Conversaciones previas (ej. “la última vez hicimos lasaña, ahora quiero algo
 Contexto dentro de la misma receta (ingredientes ya preparados o sustituidos).
 No se le otorga 10/10 porque su memoria puede depender de limitaciones técnicas (no siempre retiene información a largo plazo), pero aun así debe ser muy alta para ofrecer experiencia personalizada.
 ## -Lenguaje – 8/10
-Debe manejar:
+*Debe manejar:*
 
 Términos culinarios italianos (al dente, soffritto, al forno).
 Explicaciones claras y paso a paso.
@@ -29,7 +29,8 @@ Adaptación del lenguaje según el nivel del usuario (principiante vs. avanzado)
 No es 10/10 porque, aunque importante, el lenguaje no es el único factor crítico; la funcionalidad práctica pesa más que la sofisticación lingüística.
 ## -Emoción – 10/10
 La cocina italiana es cultura, tradición y pasión ❤️Italiana
-Un buen asistente debe:
+
+*Un buen asistente debe:*
 
 Transmitir entusiasmo por los platos.
 Motivar al usuario a cocinar.
