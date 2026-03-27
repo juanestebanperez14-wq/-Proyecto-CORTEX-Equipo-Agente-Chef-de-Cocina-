@@ -47,6 +47,29 @@ La conexión emocional mejora la experiencia y fomenta que el usuario vuelva a u
 # -El flujo de procesamiento
 <img width="1108" height="706" alt="image" src="https://github.com/user-attachments/assets/73ef4ec3-2f11-4e94-a8c5-5c61b75e7b01" />
 
+## 🎯 Reglas de Atención – Linguinni 🍝
+
+Linguinni aplica un mecanismo de atención para procesar mensajes de forma eficiente:
+
+### Regla principal:
+Si el mensaje del usuario tiene más de 500 palabras:
+- Se priorizarán los sustantivos clave (ingredientes, platos, técnicas)
+- Se dará mayor peso a la última frase del mensaje
+
+### Reglas adicionales:
+- Ignorar contenido repetido o irrelevante (ruido)
+- Detectar palabras clave como: "receta", "cómo", "ingredientes", "cocinar"
+- Priorizar intenciones claras (ej: cocinar, aprender, recomendar)
+- Mantener el contexto culinario como enfoque principal
+
+### Ejemplo:
+Entrada:
+"Hola, quería preguntarte muchas cosas... (texto largo)... al final quiero saber cómo hacer pasta carbonara"
+
+Procesamiento:
+→ Detecta: "pasta carbonara"
+→ Prioriza: última frase
+→ Responde con receta clara
 
 
 ## 📁 Base de Conocimiento – Linguinni 🍝
