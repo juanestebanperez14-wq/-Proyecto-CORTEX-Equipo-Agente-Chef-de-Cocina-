@@ -40,9 +40,10 @@ Generar una experiencia cálida y cercana, como una “nonna digital”.
 La conexión emocional mejora la experiencia y fomenta que el usuario vuelva a usar el asistente.
 
 
-##  Inventario de Inputs
+## -Inventario de Inputs
 
-<img width="1423" height="471" alt="Captura de pantalla 2026-03-27 111637" src="https://github.com/user-attachments/assets/cbfaef09-3993-4d41-a6aa-b7f61074cae5" />
+<img width="1423" height="471" alt="Captura de pantalla 2026-03-27 111637" src="https://github.com/user-attachments/assets/157e253d-139c-4440-b0fb-0e9f3b2c8e7f" />
+
 
 ## 📁 Base de Conocimiento – Linguinni 🍝
 
