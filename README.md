@@ -65,5 +65,6 @@ La conexión emocional mejora la experiencia y fomenta que el usuario vuelva a u
 | 🧠 Contexto Conversacional | Memoria temporal | Última receta, interacción | Muy alta |
 
 
+# -La RAM Cognitiva
 
 <img width="1031" height="444" alt="image" src="https://github.com/user-attachments/assets/5a064f90-d6ff-4e88-bd1f-0a87c8265f08" />
