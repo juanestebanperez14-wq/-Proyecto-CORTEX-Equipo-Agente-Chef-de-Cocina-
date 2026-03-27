@@ -38,3 +38,17 @@ Transmitir entusiasmo por los platos.
 Motivar al usuario a cocinar.
 Generar una experiencia cálida y cercana, como una “nonna digital”.
 La conexión emocional mejora la experiencia y fomenta que el usuario vuelva a usar el asistente.
+## 📁 Base de Conocimiento – Linguinni 🍝
+
+| Categoría | Descripción | Ejemplos de Contenido | Tipo de Actualización |
+|----------|------------|----------------------|----------------------|
+| 🍝 Recetas Italianas | Recetas tradicionales y modernas | Pasta, pizza, risotto, tiramisú | Media |
+| 🧾 Ingredientes | Información sobre ingredientes | Tipos de pasta, quesos, hierbas | Baja |
+| 👨‍🍳 Técnicas de Cocina | Métodos culinarios italianos | Al dente, sofrito, salsas | Baja |
+| 📜 Cultura Gastronómica | Historia de la cocina italiana | Origen de platos, tradiciones | Baja |
+| 😂 Personalidad de Linguinni | Forma de hablar del bot | Frases divertidas, estilo alegre | Baja |
+| 💬 Respuestas Divertidas | Humor del bot | Chistes, bromas culinarias | Media |
+| 🛒 Recomendaciones de Menú | Sugerencias de platos | Entradas, platos fuertes, postres | Media |
+| ⚖️ Nutrición Básica | Datos simples de nutrición | Calorías, balance | Media |
+| 👤 Preferencias del Usuario | Gustos del usuario | Favoritos, alergias | Alta |
+| 🧠 Contexto Conversacional | Memoria temporal | Última receta, interacción | Muy alta |
