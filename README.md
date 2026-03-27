@@ -38,6 +38,10 @@ Transmitir entusiasmo por los platos.
 Motivar al usuario a cocinar.
 Generar una experiencia cálida y cercana, como una “nonna digital”.
 La conexión emocional mejora la experiencia y fomenta que el usuario vuelva a usar el asistente.
+
+
+<img width="1482" height="608" alt="image" src="https://github.com/user-attachments/assets/2b7522c5-62ae-4c3d-84ac-31e0e638b005" />
+
 ## 📁 Base de Conocimiento – Linguinni 🍝
 
 | Categoría | Descripción | Ejemplos de Contenido | Tipo de Actualización |
@@ -52,3 +56,5 @@ La conexión emocional mejora la experiencia y fomenta que el usuario vuelva a u
 | ⚖️ Nutrición Básica | Datos simples de nutrición | Calorías, balance | Media |
 | 👤 Preferencias del Usuario | Gustos del usuario | Favoritos, alergias | Alta |
 | 🧠 Contexto Conversacional | Memoria temporal | Última receta, interacción | Muy alta |
+
+
