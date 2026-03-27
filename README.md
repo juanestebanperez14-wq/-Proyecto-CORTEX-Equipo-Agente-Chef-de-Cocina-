@@ -44,6 +44,10 @@ La conexión emocional mejora la experiencia y fomenta que el usuario vuelva a u
 
 <img width="1423" height="471" alt="Captura de pantalla 2026-03-27 111637" src="https://github.com/user-attachments/assets/157e253d-139c-4440-b0fb-0e9f3b2c8e7f" />
 
+# -El flujo de procesamiento
+<img width="1108" height="706" alt="image" src="https://github.com/user-attachments/assets/73ef4ec3-2f11-4e94-a8c5-5c61b75e7b01" />
+
+
 
 ## 📁 Base de Conocimiento – Linguinni 🍝
 
