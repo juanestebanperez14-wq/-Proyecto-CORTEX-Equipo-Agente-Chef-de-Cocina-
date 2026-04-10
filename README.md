@@ -91,3 +91,10 @@ Procesamiento:
 # -La RAM Cognitiva
 
 <img width="1031" height="444" alt="image" src="https://github.com/user-attachments/assets/5a064f90-d6ff-4e88-bd1f-0a87c8265f08" />
+
+# -Diagrama e flujo de recuperacion
+<img width="1718" height="744" alt="image" src="https://github.com/user-attachments/assets/00e64227-ce01-4ab4-8c6f-6ee4a8039251" />
+
+# -Regla del olvido
+Con el fin de garantizar un funcionamiento eficiente, coherente y escalable del sistema conversacional, se establece una política de gestión de memoria que distingue entre memoria de corto plazo (RAM) y memoria de largo plazo despues de un plazo de 15 minutos de inactividad en la conversacion el sistema empezara a eliminar, limpiar la ram cada 15 mins de inactvidad
+
