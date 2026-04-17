@@ -179,7 +179,7 @@ Te dije que NO tengo horno
 Tienes toda la razón, gracias por decírmelo 
 Vamos a adaptarnos a tu cocina.
 
-### 🔄 Ajuste inteligente (recuperación):
+### Ajuste inteligente (recuperación):
 
 >Podemos hacer una **pizza en sartén** 🍳
 
