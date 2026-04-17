@@ -154,7 +154,7 @@ Perfecto, lo tendré en cuenta 🧠✨
 - Aceite de oliva
 - Sal y albahaca
 
-### 👨‍🍳 Paso a paso:
+> ### 👨‍🍳 Paso a paso:
 1. Hierve agua con sal (importante: debe saber “como el mar” 🌊).
 2. Cocina la pasta hasta que esté **al dente**.
 3. Sofríe el ajo en aceite de oliva.
