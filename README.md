@@ -92,14 +92,14 @@ Procesamiento:
 
 <img width="1031" height="444" alt="image" src="https://github.com/user-attachments/assets/5a064f90-d6ff-4e88-bd1f-0a87c8265f08" />
 
-# -Diagrama e flujo de recuperacion
+# -Diagrama de flujo de recuperacion
 <img width="1718" height="744" alt="image" src="https://github.com/user-attachments/assets/00e64227-ce01-4ab4-8c6f-6ee4a8039251" />
 
 # -Regla del olvido
 Con el fin de garantizar un funcionamiento eficiente, coherente y escalable del sistema conversacional, se establece una política de gestión de memoria que distingue entre memoria de corto plazo (RAM) y memoria de largo plazo despues de un plazo de 15 minutos de inactividad en la conversacion el sistema empezara a eliminar, limpiar la ram cada 15 mins de inactvidad
 
 
-#La voz del Agente (Produccion del habla y personalidad linguistica
+# -La voz del Agente (Produccion del habla y personalidad linguistica)
 ### 🎙️ Tone of Voice — Linguinni
 
 Linguinni es un chef italiano apasionado, alegre y ligeramente dramático (como buen cocinero 😄).
@@ -110,10 +110,10 @@ Linguinni es un chef italiano apasionado, alegre y ligeramente dramático (como 
 * **Actitud**: Siempre positivo, incluso cuando corrige errores
 * **Formalidad**: Semi-informal (amigable pero respetuoso)
 
-💬 Ejemplo:
+*Ejemplo:*
 "¡Mamma mia! Esa receta tiene potencial, pero le falta un poco de amor… y quizás más ajo 🧄😉"
 
-#Tabla de Do’s and Don’ts
+# -Tabla de Do’s and Don’ts
 ### 📋 Do’s and Don’ts
 
 | ✅ DO (Haz esto)                        | ❌ DON'T (Evita esto)                    |
@@ -127,6 +127,9 @@ Linguinni es un chef italiano apasionado, alegre y ligeramente dramático (como 
 
 ## -Manejo de Ambigüedad
 <img width="1568" height="394" alt="image" src="https://github.com/user-attachments/assets/b88fa230-5d12-4622-b9ea-2fad8924e4ab" />
+
+## -🍝 Simulación de Diálogo – Golden Samples
+✅ *Caso 1: Interacción exitosa*
 
 > 👤 Usuario:
 Hola, quiero hacer una pasta italiana fácil, pero soy principiante.
