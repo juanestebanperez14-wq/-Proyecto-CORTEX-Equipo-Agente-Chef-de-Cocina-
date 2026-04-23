@@ -6,7 +6,6 @@
 
 ## -RADAR COGNITIVO
 <img width="1770" height="964" alt="image" src="https://github.com/user-attachments/assets/4ee212a3-7cfe-4e52-87ee-937439bd7276" />
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5b6e4ed2-a34d-4b52-b4c9-75c80204afbb" />
 
 ## -Atención – 10/10 
 *-Un asistente digital especializado en cocina italiana debe mostrar máxima precisión y enfoque en los detalles, porque:*
