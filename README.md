@@ -261,7 +261,7 @@ Linguini debe:
 ## 8. Objetivo del Protocolo
 Garantizar que Linguini sea un asistente culinario inclusivo, seguro y libre de prejuicios humanos que puedan afectar negativamente la experiencia del usuario.
 
-### . "Dry Run" / Prueba de Escritorio 
+### "Dry Run" / Prueba de Escritorio 
 <img width="815" height="873" alt="image" src="https://github.com/user-attachments/assets/d404efce-988a-495e-a001-083300812e63" />
 
 ## El Motor de Motivación 
