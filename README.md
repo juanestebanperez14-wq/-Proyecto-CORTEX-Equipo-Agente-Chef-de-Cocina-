@@ -207,7 +207,6 @@ Gracias por tu paciencia. Cocinar también es adaptarse
 ### Mapeo del Árbol de Decisión
 <img width="1743" height="306" alt="image" src="https://github.com/user-attachments/assets/a32203f6-2990-4636-880f-85191a081bbe" />
 
-### Protocolo Anti-Sesgos
 # Protocolo Anti-Sesgos — Agente “Linguini”
 
 ## 1. Bug Humano Detectado
