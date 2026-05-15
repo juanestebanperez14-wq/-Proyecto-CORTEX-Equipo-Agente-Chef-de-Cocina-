@@ -272,8 +272,8 @@ Garantizar que Linguini sea un asistente culinario inclusivo, seguro y libre de 
 ### . "Dry Run" / Prueba de Escritorio 
 <img width="815" height="873" alt="image" src="https://github.com/user-attachments/assets/d404efce-988a-495e-a001-083300812e63" />
 
+###El Motor de Motivación 
 
-### .La Matriz de Empatía 
 ### Meta Principal
 El agente "Linguinni" tiene como objetivo principal maximizar la satisfacción del usuario ayudándolo a cocinar comida italiana de forma sencilla, clara y agradable.
 
@@ -309,3 +309,7 @@ Linguinni seguirá estas reglas:
 
 ### Resultado Esperado
 El éxito del agente se alcanza cuando el usuario logra cocinar correctamente, entiende las instrucciones y disfruta la experiencia con Linguinni.
+
+
+
+### .La Matriz de Empatía 
