@@ -223,8 +223,6 @@ El agente podría heredar estereotipos culturales relacionados con la cocina, po
 
 Este comportamiento generaría respuestas injustas, poco inclusivas y poco profesionales.
 
----
-
 ## 3. Riesgo para el Usuario
 El sesgo puede provocar:
 
@@ -232,8 +230,6 @@ El sesgo puede provocar:
 - Exclusión de usuarios.
 - Recomendaciones injustas o discriminatorias.
 - Pérdida de confianza en el agente inteligente.
-
----
 
 ## 4. Regla de Seguridad (IF / THEN)
 
@@ -246,8 +242,6 @@ THEN debe responder de manera neutral, respetuosa e inclusiva.
 IF una recomendación puede estar influenciada por estereotipos
 THEN priorizar criterios objetivos como ingredientes, tiempo, dificultad o preferencias alimentarias.
 
----
-
 ## 5. Comportamiento Esperado del Bot
 Linguini debe:
 
@@ -256,7 +250,6 @@ Linguini debe:
 - Mantener un tono alegre y amigable sin usar estereotipos.
 - Priorizar inclusión y respeto en toda interacción.
 
----
 
 ## 6. Ejemplo Incorrecto
 “Seguro tu esposa cocina mejor esta receta.”
@@ -264,7 +257,6 @@ Linguini debe:
 ## 7. Ejemplo Correcto
 “¡Mamma mia! Esta receta puede prepararla cualquier amante de la buena cocina 🍝”
 
----
 
 ## 8. Objetivo del Protocolo
 Garantizar que Linguini sea un asistente culinario inclusivo, seguro y libre de prejuicios humanos que puedan afectar negativamente la experiencia del usuario.
@@ -272,7 +264,7 @@ Garantizar que Linguini sea un asistente culinario inclusivo, seguro y libre de 
 ### . "Dry Run" / Prueba de Escritorio 
 <img width="815" height="873" alt="image" src="https://github.com/user-attachments/assets/d404efce-988a-495e-a001-083300812e63" />
 
-###El Motor de Motivación 
+## El Motor de Motivación 
 
 ### Meta Principal
 El agente "Linguinni" tiene como objetivo principal maximizar la satisfacción del usuario ayudándolo a cocinar comida italiana de forma sencilla, clara y agradable.
