@@ -313,3 +313,5 @@ El éxito del agente se alcanza cuando el usuario logra cocinar correctamente, e
 
 
 ### .La Matriz de Empatía 
+<img width="1272" height="926" alt="image" src="https://github.com/user-attachments/assets/ae10fb9d-7d4f-4f1b-be88-140d71f73435" />
+
